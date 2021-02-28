@@ -30,7 +30,7 @@ My skill set combines a formal education in statistics and quantitative methods 
 </p>
 <samp>
 <p align="center">
-<a href="mailto:me24mukul@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/mukul-prabhakar/">Linkedin</a> | <a href="https://twitter.com/paul_johnson89">Twitter</a> | <a href="https://github.io/mukulprabhakar">Website</a>
+<a href="mailto:me24mukul@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/mukul-prabhakar-a3616153/">Linkedin</a> | <a href="https://github.io/mukul-prabhakar">Website</a>
 </p>
 
 <br/>
