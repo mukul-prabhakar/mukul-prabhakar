@@ -2,8 +2,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mukul Prabhakar</h1>
+<h3 align="center">Software Engineer | Technical Content Writer | Android Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -30,7 +30,7 @@ My skill set combines a formal education in statistics and quantitative methods 
 </p>
 <samp>
 <p align="center">
-<a href="mailto:paul@paulrjohnson.net">Email</a> | <a href="https://www.linkedin.com/in/paulj1989/">Linkedin</a> | <a href="https://twitter.com/paul_johnson89">Twitter</a> | <a href="https://paulrjohnson.net">Website</a>
+<a href="mailto:me24mukul@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/mukul-prabhakar/">Linkedin</a> | <a href="https://twitter.com/paul_johnson89">Twitter</a> | <a href="https://github.io/mukulprabhakar">Website</a>
 </p>
 
 <br/>
